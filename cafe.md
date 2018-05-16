@@ -20,12 +20,12 @@ The  sytem consists of the back end and front end. The front end will display fo
   - Customer order
 
 
-Computing:
+2.Computing:
   - Selling price for the items
   - profit per item
   - Gross pay per month for employees
   
- Generate
+3.Generate
 - Payment receipts
 - Invoices
 - Monthly summaries
